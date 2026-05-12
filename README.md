@@ -241,4 +241,6 @@ git commit -m "implementação dos testes e documentação"
 
 # Autor
 
+Maria Eduarda Miranda de Morais  
+Curso de Análise e Desenvolvimento de Sistemas  
 Projeto desenvolvido para fins acadêmicos.
